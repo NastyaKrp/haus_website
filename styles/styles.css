@@ -71,7 +71,7 @@ body{
     top: 0;
     left: 50%;
     width: 50%;
-    height: 800px; /*костыль*/
+    height: 900px; /*костыль*/
     background-color: #996b60;
     padding-bottom: 100px;
 }
@@ -79,7 +79,7 @@ body{
 .main__img{
     position:absolute;
     width: 50%;
-    height: 800px; /*костыль*/
+    height: 900px; /*костыль*/
     top: 0;
 }
 
@@ -89,7 +89,7 @@ body{
     left: 50%;
     padding: 312px 0px 0px 60px;
     margin-bottom: 100px;
-    color: white;
+    color: red;
     font-size: 18px;
     line-height: 32px;
     width: 632px;
