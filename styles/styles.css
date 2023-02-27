@@ -89,7 +89,7 @@ body{
     left: 50%;
     padding: 312px 0px 0px 60px;
     margin-bottom: 100px;
-    color: white;
+    color: red;
     font-size: 18px;
     line-height: 32px;
     width: 632px;
@@ -394,7 +394,7 @@ h5{
 }
 
 .img__bg{
-    background-image: url("images/last_bg.png");
+    background-image: url("https://github.com/NastyaKrp/haus_website/blob/main/images/last_bg.png?raw=true");
     background-size: 100%;
     padding: 60px 60px 50px;
 }
