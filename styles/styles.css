@@ -23,7 +23,6 @@ body{
 .main__screen{
     position: relative;
     background-color: #996b60;
-    padding-bottom: 100px;
 }
 
 
@@ -82,7 +81,6 @@ body{
     width: 50%;
     height: 800px; /*костыль*/
     top: 0;
-    padding-bottom: 100px;
 }
 
 .main__text{
@@ -118,7 +116,7 @@ h1{
     background-color: transparent;
     height: 52px;
     padding: 18px 52px 20px;
-    margin-top: 46px;
+    margin: 46px 0 100px;
 }
 
 .white__bg{
