@@ -89,7 +89,7 @@ body{
     left: 50%;
     padding: 312px 0px 0px 60px;
     margin-bottom: 100px;
-    color: red;
+    color: white;
     font-size: 18px;
     line-height: 32px;
     width: 632px;
@@ -101,7 +101,7 @@ h1{
     font-weight: 400;
     font-size: 73px;
     line-height: 96px;
-    width: 470px;
+    width: 500px;
     padding-bottom: 34px;
 }
 
@@ -125,7 +125,7 @@ h1{
     top: 910px; /*костыль*/
     background-color: white;
     width: 100%;
-    margin-bottom: 55px;
+    margin: 55px 0 55px;
 }
 
 
